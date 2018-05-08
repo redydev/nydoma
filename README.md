@@ -1,0 +1,2 @@
+# nydoma
+A bot discord
