@@ -1,2 +1,2 @@
-# nydoma
+# NyDoma
 A bot discord
